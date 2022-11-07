@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "sanntis_dev"
+  site-url: "https://SantiagoSanchezF.github.io/sanntis_dev"
+  description: "bgc pred"
+  repo-branch: main
+  repo-url: "https://github.com/SantiagoSanchezF/sanntis_dev"
